@@ -1,4 +1,4 @@
-module io.github.wander.inventorymanager {
+module io.github.jordanneuenschwander.inventorymanager {
     requires javafx.controls;
     requires javafx.fxml;
 
@@ -6,6 +6,6 @@ module io.github.wander.inventorymanager {
     requires com.dlsc.formsfx;
     requires org.kordamp.bootstrapfx.core;
 
-    opens io.github.wander.inventorymanager to javafx.fxml;
-    exports io.github.wander.inventorymanager;
+    opens io.github.jordanneuenschwander.inventorymanager to javafx.fxml;
+    exports io.github.jordanneuenschwander.inventorymanager;
 }

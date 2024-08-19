@@ -1,1 +1,0 @@
-moduleSearchIndex = [{"l":"io.github.wander.inventorymanager"}]
